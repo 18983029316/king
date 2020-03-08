@@ -1,0 +1,2 @@
+# king
+my alias name
